@@ -24,7 +24,7 @@ namespace Polymorphisme
 
 		public Sisr(string unNom, string unPrenom, string unNumero, string uneCertification)
 			:base(unNom,unPrenom,unNumero)
-        {
+       		{
 			laCertification = uneCertification;
 		}
 	}
